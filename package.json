@@ -10,7 +10,7 @@
     "registry":"https://registry.npmjs.org/"
   },
   "dependencies": {
-    "metacdn.hls.js": "^0.6.3",
+    "metacdn.hls.js": "0.5.39",
     "videojs-quality-picker": "^0.0.2"
   },
   "devDependencies": {
